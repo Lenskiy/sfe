@@ -15,7 +15,6 @@ type Strand = [Base]
 -- TU
 -- >>> partner TU
 -- A
-
 partner :: Base -> Base
 
 
